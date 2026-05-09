@@ -9,5 +9,6 @@ package lab05_adaptador;
  * @author sistemas
  */
 public class PavoSilvestre {
+    public
     
 }
