@@ -1,7 +1,7 @@
 package lab05_adaptador;
 public class AdaptadorDrone implements Pato{
     protected Drone drone;
-    public void AdaptadorDrone(Drone drone){
+    public AdaptadorDrone(Drone drone){
         this.drone= drone;
     }
     @Override
